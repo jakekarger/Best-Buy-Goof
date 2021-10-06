@@ -30,7 +30,7 @@
     "cors": "^2.7.1",
     "degrees-radians": "^1.0.3",
     "feathers": "^2.0.1",
-    "feathers-configuration": "^0.2.3",
+    "feathers-configuration": "^0.4.2",
     "feathers-errors": "^2.4.0",
     "feathers-hooks": "^1.5.4",
     "feathers-rest": "^1.4.3",
